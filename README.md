@@ -70,5 +70,7 @@ Fact table:
 
 ## 5. Dashboard
 - Looker Dashboard: https://lookerstudio.google.com/reporting/d8f464ac-e46a-45ae-a707-d6eb6d1ed71f
+<img width="443" height="317" alt="image" src="https://github.com/user-attachments/assets/a676f77f-075f-4788-bdf2-f0d981769e5c" />
+
 
 
